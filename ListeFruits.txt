@@ -1,0 +1,121 @@
+Abricot
+Airelle
+Alkékenge
+Amande
+Amélanche
+Ananas
+Arbouse
+Asiminier trilobé
+Avocat
+Banane
+Bergamote
+Bigarade
+brugnon
+Canneberge
+Cassis
+Cerise
+Châtaigne
+Citron
+Clémentine
+Coing
+Cornouiller
+Cynorrhodon
+Datte
+Figue
+Fraise
+Framboise
+Grenade
+Groseille
+Jujube
+Kaki
+Kiwi
+Lime
+Mandarine
+Marron
+Melon
+Mirabelle
+Mûre
+Myrtille
+Nèfle
+Noisette
+Noix
+Olive
+Orange
+Pamplemousse
+Pastèque
+Pêche
+Pistache
+Plaquebière
+Chicouté
+Poire
+Pomme
+Pomélo
+Prune
+Pruneau
+Quetsche
+Raisin
+
+
+Mamey
+Bigarade
+Combava
+Kumquat
+Attier
+Cachiman
+Cherimole
+Cherimoya
+Corossol
+Acérola
+Ananas
+Avocat
+Banane
+Cacao
+Caïmite
+Carambole
+Durian
+Fe'i
+Fruit-à-pain
+Fruit de la passion
+Girembelle
+Goyave
+Icaque
+Jacque
+Jambose rouge
+Kiwano
+Litchi
+Longane
+Mangoustan
+Mangue
+Melon
+Mombin
+Myrobolan
+Nèfle
+Noix de cajou
+Noix de coco
+Noix de muscade
+Pain de singe
+Papaye
+Barbadine
+Grenadelle
+Grenadille
+Maracudja
+Fruit de la passion
+Pomme liane
+Pepino
+Physalis
+Pitaya
+Pomme de cajou
+Pomme de lait
+Prune de Cythère
+Quenette
+Ramboutan
+Salak
+Sapote
+Sapotille
+Tamarillo
+Tamarin
+Taxo
+Yuzu
+
+
+ test de lecture et �criture !!
