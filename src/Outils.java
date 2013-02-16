@@ -21,16 +21,12 @@ public class Outils {
 					br = new BufferedReader(ipsr);
 					String ligne;
 					String word = mot.toUpperCase();
-					System.out.println(word);
-					while ((ligne=br.readLine())!=null){						
-						if(ligne.length()==word.length()){	
-							System.out.println(ligne+"  "+ligne.length());
-							System.out.println(String.valueOf(ligne.toUpperCase()));
-							if( word.compareTo(ligne.toUpperCase())==0){								
-								return true;
-							}
+					while ((ligne=br.readLine())!=null){							
+						String ligneMaj=ligne.toUpperCase();
+						if( motPossible(word,ligneMaj)){								
+							return true;
 						}
-					}
+					}					
 					br.close(); 
 				}		
 				catch (Exception e){
@@ -39,5 +35,32 @@ public class Outils {
 				return false;
 	}
 
+	// Gere la possibilité que la personne est mal tapé
+	public boolean motPossible(String motTape,String motReference){
+		/*if(motTape.length()!= motReference.length()){
+			return false;
+		}
+		*/
+		int nbReference;
+		if(motReference.length()>motTape.length()){
+			nbReference=motTape.length();
+		}
+		else{
+			nbReference=motReference.length();
+		}
+		int nbCharJuste = 0;
+		for(int i = 0 ; i<nbReference ; i++){
+			if(String.valueOf(motTape.charAt(i)).compareTo(String.valueOf(motReference.charAt(i)))==0){
+				nbCharJuste++;
+			}
+		}
+		int nbTemp=nbReference-nbCharJuste;
+		if(nbTemp==0 || nbTemp==1){
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
 }
 

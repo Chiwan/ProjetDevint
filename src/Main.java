@@ -8,8 +8,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		Outils outils = new Outils();
-		System.out.println(outils.leMotEstDansLaListe("litchi","ListeFruits.txt"));
-
+		System.out.println(outils.leMotEstDansLaListe("litch","ListeFruits.txt"));
+		System.out.println(outils.motPossible("litchE", "litchi"));
+		System.out.println(outils.motPossible("litehE", "litchi"));
 	}
 
 }
