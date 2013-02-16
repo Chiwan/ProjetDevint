@@ -117,5 +117,3 @@ Tamarin
 Taxo
 Yuzu
 
-
- test de lecture et écriture !!

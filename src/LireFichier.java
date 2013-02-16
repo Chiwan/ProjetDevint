@@ -15,7 +15,7 @@ public class LireFichier {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String chaine="";
-		String fichier ="ListeFruits.txt";
+		String fichier ="texte.txt";
 		
 		//lecture du fichier texte	
 		try{
